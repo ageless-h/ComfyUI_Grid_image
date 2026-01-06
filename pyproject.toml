@@ -5,10 +5,10 @@ version = "1.0.0"
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/yourusername/ComfyUI_Grid_image"
-Issues = "https://github.com/yourusername/ComfyUI_Grid_image/issues"
+Repository = "https://github.com/ageless-h/ComfyUI_Grid_image"
+Issues = "https://github.com/ageless-h/ComfyUI_Grid_image/issues"
 
 [tool.comfy]
-PublisherId = ""
-DisplayName = "ComfyUI_Grid_image"
+PublisherId = "agelessh"
+DisplayName = "网格图像"
 Icon = ""
