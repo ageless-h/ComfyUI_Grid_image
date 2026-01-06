@@ -2,6 +2,7 @@
 name = "comfyui_grid_image"
 description = "ComfyUI节点 - 将多张图像拼接成网格图。支持动态输入（1-32张图像）、多种分辨率预设、行列设置，自动为每个网格添加顺序编号。"
 version = "1.0.0"
+license = {file = "LICENSE.txt"}
 dependencies = []
 
 [project.urls]
