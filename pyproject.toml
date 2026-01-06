@@ -1,7 +1,7 @@
 [project]
 name = "comfyui_grid_image"
 description = "ComfyUI节点 - 将多张图像拼接成网格图。支持动态输入（1-32张图像）、多种分辨率预设、行列设置，自动为每个网格添加顺序编号。"
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE.txt"}
 dependencies = []
 
@@ -10,6 +10,6 @@ Repository = "https://github.com/ageless-h/ComfyUI_Grid_image"
 Issues = "https://github.com/ageless-h/ComfyUI_Grid_image/issues"
 
 [tool.comfy]
-PublisherId = "agelessh"
+PublisherId = "ageless-h"
 DisplayName = "网格图像"
 Icon = ""
